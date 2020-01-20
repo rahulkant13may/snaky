@@ -1,3 +1,3 @@
 # snaky
 
-Snake game for browser
+Snake game written in Javascript for browser
